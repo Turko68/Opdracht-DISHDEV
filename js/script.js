@@ -96,7 +96,7 @@ $(document).ready(function() {
 
 
 
-/*///////////////////////////////////*/
+/*///////////////Haliscan-Atla////////////////////*/
 
 function toggleMenu() {
     const mobileMenu = document.querySelector('.mobile-menu');
@@ -107,6 +107,6 @@ function redirectToMenu() {
     window.location.href = "menu.php";
     console.log('Redirecting to menu page');
 }
-
+/*//////////////////////////////////*/
 
 
